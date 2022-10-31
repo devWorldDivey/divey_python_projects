@@ -1,0 +1,4 @@
+['#', 'https://stackoverflow.com', 'https://stackoverflow.co/', '#', '/teams', '/questions', '/teams', 'https://stackoverflow.co/talent', 'https://stackoverflow.co/advertising', 'https://stackoverflow.co/']
+[]
+['/go/profile', '/_signout']
+['https://www.moneycontrol.com/', 'https://hindi.moneycontrol.com', 'https://gujarati.moneycontrol.com/', 'javascript:;', None, 'https://www.moneycontrol.com/india/stockpricequote/ironsteel/tatasteel/TIS', 'https://www.moneycontrol.com/india/stockpricequote/refineries/relianceindustries/RI', 'https://www.moneycontrol.com/us-markets/stockpricequote/apple/AAPL', 'https://www.moneycontrol.com/india/stockpricequote/banks-private-sector/bandhanbank/BB09', 'https://www.moneycontrol.com/us-markets/stockpricequote/microsoft/MSFT']
