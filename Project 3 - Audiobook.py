@@ -1,7 +1,7 @@
 from gtts import gTTS
 import PyPDF2
 
-pdf_File = open("Driver_Salary_Receipt-October 2022.pdf", 'rb')
+pdf_File = open("Madetotest.pdf", 'rb')
 pdf_Reader = PyPDF2.PdfFileReader(pdf_File)
 count = pdf_Reader.numPages
 textList = []
@@ -21,3 +21,4 @@ language = "en"
 myAudio = gTTS(text=textString, lang=language, slow=False)
 
 myAudio.save("Audio.mp3")
+pdf_File.close()
